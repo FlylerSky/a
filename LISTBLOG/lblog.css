@@ -1,0 +1,12 @@
+.list{
+  margin-top: 60px;
+width: 90%; 
+
+}
+.listit {
+  display: flex;
+  box-sizing: border-box;
+}
+iframe {
+  width: 50vw;
+}

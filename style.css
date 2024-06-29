@@ -1,0 +1,44 @@
+body {
+    font-size: 15pt;
+    box-sizing: border-box;
+    margin: 5% 5% 10% 5%;
+}
+.welcome{
+  background-image: linear-gradient(180deg, green, blue);
+width: 100%;
+  height: 80vh;
+  border-radius: 10px;
+  border: solid rgba(255, 255, 255, 0.5) 1px;
+}
+.all {
+  margin: 5%;
+  text-align: center;
+}
+.nut{
+  margin-top: 10rem;
+  display: flex;
+  justify-content: space-between;
+}
+.home , .dangki{
+  border-radius: 100px;
+  width: 40vw;
+  padding: 10px;
+  border: solid;
+}
+.hotro{
+  border-radius: 100px;
+  width: 81vw;
+  padding: 10px;
+  border: solid;
+  margin-top: 1%;
+}
+.home {
+  background-color: rgba(172, 179, 255, 0.6)
+  
+}
+.dangki{
+  background-color: rgba(255, 172, 172, 0.6)
+}
+code {
+  margin-top: 1000%;
+}
